@@ -1,0 +1,11 @@
+{
+  "inheritFrom": [
+    "govuk-prototype-kit"
+  ],
+  "starterFileDirectories": [
+    "/packages/govuk-prototype-starter"
+  ],
+  "installedPackages": [
+    "jquery"
+  ]
+}

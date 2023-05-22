@@ -64,6 +64,9 @@
     "wait-on": "^6.0.1",
     "webpack-stream": "^7.0.0"
   },
+  "bin": {
+    "nhsuk-frontend": "bin/govuk-prototype-kit-cli-wrapper"
+  },
   "publishConfig": {
     "access": "public"
   },
