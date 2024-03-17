@@ -81,8 +81,8 @@
   "files": [
     "dist",
     "packages",
-    "govuk-prototype-kit.config.json",
-    "govuk-prototype-kit.variant.json"
+    "now-prototype-it.config.json",
+    "now-prototype-it.variant.json"
   ],
   "repository": {
     "type": "git",
